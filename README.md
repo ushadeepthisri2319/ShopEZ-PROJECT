@@ -33,7 +33,7 @@ ShopEZ/
 ```
 
 ## 👩‍💻 Author
-**Supritha Usha**
+**Sunkara Usha Deepthi Sri**
 
 ## 📄 License
 This project is created for educational and learning purposes.
